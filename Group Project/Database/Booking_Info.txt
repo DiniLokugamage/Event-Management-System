@@ -1,0 +1,19 @@
+----------------------------- Booking Information ---------------------------------------
+BookingID 				: 			2
+CustomerName 				: 			Avishka
+Event 				: 			Party
+EventDate 				: 			8/28/2024 12:00:00 AM
+NoOfPersons 				: 			140
+Dishes 				: 			
+PlatePrice 				: 			1200
+Beverages 				: 			Soda
+AdditionalEvents 				: 			DJ
+PaymentOption 				: 			Installment Wise
+PaymentStatus 				: 			Paid
+FirstInstallment 				: 			100000
+DueAmount 				: 			0
+NetTotal 				: 			169300
+Discount 				: 			0
+GrossTotal 				: 			169300
+CustomerID 				: 			3
+-------------------------------------------------------------------------------------------
